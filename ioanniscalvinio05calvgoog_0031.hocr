@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio05calvgoog_0031.png"; bbox 0 0 4732 6030; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1231 2555 1996 2624">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1231 2555 1996 2624">
+     <span class='ocr_line' id='line_1_1' title="bbox 1231 2555 1996 2624; baseline -0.004 -15"><span class='ocrx_word' id='word_1_1' title='bbox 1231 2557 1345 2609; x_wconf 75' lang='lat' dir='ltr'>Praeter</span> <span class='ocrx_word' id='word_1_2' title='bbox 1364 2556 1525 2624; x_wconf 75' lang='lat' dir='ltr'>apostolicas</span> <span class='ocrx_word' id='word_1_3' title='bbox 1545 2566 1605 2623; x_wconf 78' lang='lat' dir='ltr'><strong>post</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1623 2555 1724 2608; x_wconf 77' lang='lat' dir='ltr'><strong>Christi</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1743 2564 1864 2624; x_wconf 76' lang='lat' dir='ltr'><strong>tempora</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1883 2555 1996 2619; x_wconf 74' lang='lat' dir='ltr'>chartus,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1302 2659 1939 2727">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1302 2659 1939 2727">
+     <span class='ocr_line' id='line_1_2' title="bbox 1302 2659 1939 2727; baseline -0.003 -16"><span class='ocrx_word' id='word_1_7' title='bbox 1302 2660 1371 2711; x_wconf 68' lang='lat' dir='ltr'>[luia</span> <span class='ocrx_word' id='word_1_8' title='bbox 1389 2676 1519 2727; x_wconf 75' lang='lat' dir='ltr'>peperere</span> <span class='ocrx_word' id='word_1_9' title='bbox 1537 2659 1607 2711; x_wconf 84' lang='lat' dir='ltr'>libro</span> <span class='ocrx_word' id='word_1_10' title='bbox 1625 2660 1731 2711; x_wconf 76' lang='lat' dir='ltr'><strong>saecula</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1748 2659 1821 2710; x_wconf 77' lang='lat' dir='ltr'>nulla</span> <span class='ocrx_word' id='word_1_12' title='bbox 1839 2675 1939 2726; x_wconf 71' lang='lat' dir='ltr'>parom.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1449 2795 2044 2861">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1449 2795 2044 2861">
+     <span class='ocr_line' id='line_1_3' title="bbox 1449 2795 2044 2861; baseline -0.007 -13"><span class='ocrx_word' id='word_1_13' title='bbox 1449 2796 1576 2848; x_wconf 83' lang='lat' dir='ltr'><strong>Paulus</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 1595 2795 1755 2859; x_wconf 72' lang='lat' dir='ltr'>Thurina,</span> <span class='ocrx_word' id='word_1_15' title='bbox 1775 2795 1961 2861; x_wconf 63' lang='lat' dir='ltr'>HungnruS.</span> <span class='ocrx_word' id='word_1_16' title='bbox 2040 2804 2044 2815; x_wconf 93' lang='lat'>&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2370 6020">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2370 6020">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2370 6020; baseline 0 0"><span class='ocrx_word' id='word_1_17' title='bbox 0 0 2370 6020; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

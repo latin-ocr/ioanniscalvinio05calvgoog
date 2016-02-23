@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ioanniscalvinio05calvgoog_0030.png"; bbox 0 0 4732 6030; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 668 1854 1838 2165">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 668 1854 1838 2165">
+     <span class='ocr_line' id='line_1_1' title="bbox 668 1854 1838 2165; baseline 0.009 -8"><span class='ocrx_word' id='word_1_1' title='bbox 668 1990 1131 2163; x_wconf 82' lang='lat' dir='ltr'><strong>IOANNIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1177 1993 1645 2165; x_wconf 77' lang='grc' dir='ltr'>ΟΑΙΝΙΝΙ</span> <span class='ocrx_word' id='word_1_3' title='bbox 1835 1854 1838 1864; x_wconf 16' lang='grc' dir='ltr'>Ι</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 125 2442 2040 2631">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 125 2442 2040 2631">
+     <span class='ocr_line' id='line_1_2' title="bbox 125 2442 2040 2631; baseline 0.003 -29"><span class='ocrx_word' id='word_1_4' title='bbox 125 2442 128 2448; x_wconf 48' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 274 2471 376 2604; x_wconf 93' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 378 2469 791 2604; x_wconf 86' lang='lat' dir='ltr'><strong>STITUTIO</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 828 2469 1276 2631; x_wconf 83' lang='lat' dir='ltr'><strong>RELIGION</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1275 2471 1356 2606; x_wconf 88' lang='lat' dir='ltr'><strong>IS</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1395 2469 2040 2607; x_wconf 84' lang='lat' dir='ltr'><strong>CHRISTIANAE.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 772 3050 1577 3120">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 772 3050 1577 3120">
+     <span class='ocr_line' id='line_1_3' title="bbox 772 3050 1577 3120; baseline 0.006 -7"><span class='ocrx_word' id='word_1_10' title='bbox 772 3100 778 3113; x_wconf 94' lang='lat'>.</span> <span class='ocrx_word' id='word_1_11' title='bbox 826 3050 1076 3116; x_wconf 77' lang='lat' dir='ltr'>EDITIONES</span> <span class='ocrx_word' id='word_1_12' title='bbox 1099 3051 1332 3120; x_wconf 87' lang='lat' dir='ltr'><strong>ANNORUM</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1357 3056 1577 3119; x_wconf 80' lang='lat'>1539—1554</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2370 6020">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2370 6020">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2370 6020; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 2370 6020; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
